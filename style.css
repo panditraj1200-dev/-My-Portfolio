@@ -801,7 +801,11 @@ section {
     .about-img{
         margin: 25px 0 0 ;
     }
+    .top i {
+        display: none;
+    }
 }
+
 
 
 
