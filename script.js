@@ -1,6 +1,6 @@
 
 var typed= new Typed(".text",{
-    strings: ["FRONTEND DEVELOPER", "WEB DESIGN", "WEB DEVELOPER"],
+    strings: ["FRONTEND DEVELOPER", "WEB DESIGNER", "WEB DEVELOPER"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
@@ -32,3 +32,4 @@ var typed= new Typed(".text",{
     // form clear karne ke liye
     document.getElementById("contactForm").reset();
   });
+
